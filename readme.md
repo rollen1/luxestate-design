@@ -4,4 +4,4 @@
 
 - HTML
 - SASS
--- with BEM semantic classes
+  - with BEM semantic classes
